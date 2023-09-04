@@ -1,22 +1,6 @@
 # Defusion
 
-### Linea Goerli
-- DegoAINFTFactory
-    - https://explorer.goerli.linea.build/address/0x2aB1399Dd3f243D258D992EEc70d38021FfCBF47
-
-- DegoAINFT
-    - https://explorer.goerli.linea.build/address/0x73f1671870532F761AdFEd473373E508762AEC5A
-
-### starknet
-- DegoAINFTFactory
-    - https://starkscan.co/contract/0x00e78fade7bfdc78104dde179f952de92fe79639416d541e06e6ef83f73a6985
-    
-- DegoAINFT
-    - https://starkscan.co/contract/0x045916242abf1ce578cbbe8360dece74e0f3d61cbb7b5dc6866fe6c9f61c5d8c
-
-
-----------------
-## Defusion
+[website](https://defusion.ai/)
 
 ### Arbitrum
 - AIGCToken: 0x66738341f0Fd48befF97befd8A6C8ce98953a3dE
@@ -118,6 +102,8 @@ AIGC: 0x66738341f0Fd48befF97befd8A6C8ce98953a3dE
 - MedalNFTForMint: 0x1E77A8aEaE13CFF8fa5b43A668F24b897bfE60fc
 - RewardForMinter: 0xb630dDCeEeA7001D19067c37B2EdeCA2c0426993
 
+----------------
+
 ## FreeMint AIDEGO NFT
 
 ### Arbitrum
@@ -136,3 +122,17 @@ AIGC: 0x66738341f0Fd48befF97befd8A6C8ce98953a3dE
 
 - Multicall
     - https://explorer.zksync.io/address/0x3a35F0B695ED9d2618F38fF7B249B9d22a1f7811
+
+### Linea Goerli
+- DegoAINFTFactory
+    - https://explorer.goerli.linea.build/address/0x2aB1399Dd3f243D258D992EEc70d38021FfCBF47
+
+- DegoAINFT
+    - https://explorer.goerli.linea.build/address/0x73f1671870532F761AdFEd473373E508762AEC5A
+
+### starknet
+- DegoAINFTFactory
+    - https://starkscan.co/contract/0x00e78fade7bfdc78104dde179f952de92fe79639416d541e06e6ef83f73a6985
+    
+- DegoAINFT
+    - https://starkscan.co/contract/0x045916242abf1ce578cbbe8360dece74e0f3d61cbb7b5dc6866fe6c9f61c5d8c
