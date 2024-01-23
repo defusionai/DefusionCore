@@ -2,6 +2,13 @@
 
 [website](https://defusion.ai/)
 
+
+### B2 Test
+- PlayBook: 0x7ac37D8834D94af3862F8Ed5B84cb39E9e08a7F2
+- AIGCToken: 0x66738341f0Fd48befF97befd8A6C8ce98953a3dE
+- DefusionAi: 0x5CA715D5fB3a3F0499f72EC52d66A6c5a506ea4f
+- DefusionAiFactory: 0x4e5066E0b60AeF1F74186139BB57031DAAb942C2
+
 ### Arbitrum
 - AIGCToken: 0x66738341f0Fd48befF97befd8A6C8ce98953a3dE
 - PlayBook: 0x5CA715D5fB3a3F0499f72EC52d66A6c5a506ea4f
